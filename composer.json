@@ -1,0 +1,13 @@
+{
+    "name": "meu-projeto/mentor-web",
+    "type": "project",
+    "require": {
+        "php": ">=8.2",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
